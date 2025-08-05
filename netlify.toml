@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "/app/pages/index.html"
+  status = 301

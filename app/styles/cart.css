@@ -1,0 +1,15 @@
+#cart-container {
+  padding: 0 4rem;
+  min-height: 50vh;
+  width: 100%;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+.product-image-cart {
+  width: auto;
+  height: 100px;
+  object-fit: contain;
+  border-radius: 16px;
+}
